@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace QuizSpelletje
 {
-    class Quizcs
+    class Quiz
     {
     }
 }
